@@ -4,10 +4,10 @@ Title: A raw data processing for scalpel project
 Version: 0.1.2-0
 Date: 2016-7-15
 Author: Anatoly Sorokin
-Maintainer: lptolik@gmail.com
+Maintainer: Anatoly Sorokin <lptolik@gmail.com>
 Description: This package gives the implementations of key functions to 
             manipulate mass-spectrometry data from spray-from-tissue experiment.
-Depends: R (>= 3.0), xcms, 
+Depends: R (>= 3.0), xcms, doParallel
 Imports: stringr, reshape2, ggplot2, plyr, data.table, Matrix
 Suggests:  knitr, FactoMineR, xtable, factoextra
 VignetteBuilder: knitr
