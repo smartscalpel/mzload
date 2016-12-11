@@ -11,5 +11,5 @@ Depends: R (>= 3.0), xcms, doParallel
 Imports: stringr, reshape2, ggplot2, plyr, data.table, Matrix
 Suggests:  knitr, FactoMineR, xtable, factoextra
 VignetteBuilder: knitr
-License: GPL (>= 3)
+License: file LICENSE
 LazyLoad: yes
