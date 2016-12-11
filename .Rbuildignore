@@ -1,0 +1,11 @@
+.gitignore
+aux$
+log$
+out$
+NEWS.md
+^\.Rproj\.user$
+^.*\.Rproj$
+FAQ.md
+^knitr-examples$
+^\.github$
+^docs$
